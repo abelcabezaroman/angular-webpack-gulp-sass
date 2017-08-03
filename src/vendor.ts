@@ -3,16 +3,6 @@
 // at the entry point of the async loaded file. Also see custom-typings.d.ts as you also need to
 // run `typings install x` where `x` is your module
 
-// // Bootstrap Sass
-// import 'bootstrap-sass/assets/javascripts/bootstrap';
-// import './bootstrap-customized.scss';
-
-// Font-Awesome Sass
-// import './font-awesome-customized.scss';
-
-// Styles
- import './styles.scss';
-
 // Angular 2
 import '@angular/platform-browser';
 import '@angular/platform-browser-dynamic';
