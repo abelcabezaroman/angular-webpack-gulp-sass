@@ -10,6 +10,9 @@
 // Font-Awesome Sass
 // import './font-awesome-customized.scss';
 
+// Styles
+ import './styles.scss';
+
 // Angular 2
 import '@angular/platform-browser';
 import '@angular/platform-browser-dynamic';
